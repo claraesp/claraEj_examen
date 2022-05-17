@@ -1,0 +1,17 @@
+C:\Users\ANDREU\Source\Repos\claraesp\claraEj_examen\Ej_examen\bin\Debug\net6.0-windows\Ej_examen.exe
+C:\Users\ANDREU\Source\Repos\claraesp\claraEj_examen\Ej_examen\bin\Debug\net6.0-windows\Ej_examen.deps.json
+C:\Users\ANDREU\Source\Repos\claraesp\claraEj_examen\Ej_examen\bin\Debug\net6.0-windows\Ej_examen.runtimeconfig.json
+C:\Users\ANDREU\Source\Repos\claraesp\claraEj_examen\Ej_examen\bin\Debug\net6.0-windows\Ej_examen.dll
+C:\Users\ANDREU\Source\Repos\claraesp\claraEj_examen\Ej_examen\bin\Debug\net6.0-windows\Ej_examen.pdb
+C:\Users\ANDREU\Source\Repos\claraesp\claraEj_examen\Ej_examen\obj\Debug\net6.0-windows\Ej_examen.csproj.AssemblyReference.cache
+C:\Users\ANDREU\Source\Repos\claraesp\claraEj_examen\Ej_examen\obj\Debug\net6.0-windows\Ej_examen.Form1.resources
+C:\Users\ANDREU\Source\Repos\claraesp\claraEj_examen\Ej_examen\obj\Debug\net6.0-windows\Ej_examen.csproj.GenerateResource.cache
+C:\Users\ANDREU\Source\Repos\claraesp\claraEj_examen\Ej_examen\obj\Debug\net6.0-windows\Ej_examen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANDREU\Source\Repos\claraesp\claraEj_examen\Ej_examen\obj\Debug\net6.0-windows\Ej_examen.AssemblyInfoInputs.cache
+C:\Users\ANDREU\Source\Repos\claraesp\claraEj_examen\Ej_examen\obj\Debug\net6.0-windows\Ej_examen.AssemblyInfo.cs
+C:\Users\ANDREU\Source\Repos\claraesp\claraEj_examen\Ej_examen\obj\Debug\net6.0-windows\Ej_examen.csproj.CoreCompileInputs.cache
+C:\Users\ANDREU\Source\Repos\claraesp\claraEj_examen\Ej_examen\obj\Debug\net6.0-windows\Ej_examen.dll
+C:\Users\ANDREU\Source\Repos\claraesp\claraEj_examen\Ej_examen\obj\Debug\net6.0-windows\refint\Ej_examen.dll
+C:\Users\ANDREU\Source\Repos\claraesp\claraEj_examen\Ej_examen\obj\Debug\net6.0-windows\Ej_examen.pdb
+C:\Users\ANDREU\Source\Repos\claraesp\claraEj_examen\Ej_examen\obj\Debug\net6.0-windows\Ej_examen.genruntimeconfig.cache
+C:\Users\ANDREU\Source\Repos\claraesp\claraEj_examen\Ej_examen\obj\Debug\net6.0-windows\ref\Ej_examen.dll
