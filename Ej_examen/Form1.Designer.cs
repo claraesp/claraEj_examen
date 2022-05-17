@@ -31,6 +31,7 @@
             this.button1 = new System.Windows.Forms.Button();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
+            this.button2 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // button1
@@ -59,11 +60,22 @@
             this.label1.TabIndex = 2;
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
+            // button2
+            // 
+            this.button2.Location = new System.Drawing.Point(471, 234);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(121, 33);
+            this.button2.TabIndex = 3;
+            this.button2.Text = "cambiar formulario";
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(624, 299);
+            this.Controls.Add(this.button2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.button1);
@@ -79,5 +91,6 @@
         private Button button1;
         private TextBox textBox1;
         private Label label1;
+        private Button button2;
     }
 }

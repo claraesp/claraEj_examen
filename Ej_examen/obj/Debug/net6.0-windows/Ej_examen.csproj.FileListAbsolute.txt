@@ -15,3 +15,4 @@ C:\Users\ANDREU\Source\Repos\claraesp\claraEj_examen\Ej_examen\obj\Debug\net6.0-
 C:\Users\ANDREU\Source\Repos\claraesp\claraEj_examen\Ej_examen\obj\Debug\net6.0-windows\Ej_examen.pdb
 C:\Users\ANDREU\Source\Repos\claraesp\claraEj_examen\Ej_examen\obj\Debug\net6.0-windows\Ej_examen.genruntimeconfig.cache
 C:\Users\ANDREU\Source\Repos\claraesp\claraEj_examen\Ej_examen\obj\Debug\net6.0-windows\ref\Ej_examen.dll
+C:\Users\ANDREU\source\repos\claraesp\claraEj_examen\Ej_examen\obj\Debug\net6.0-windows\Ej_examen.Form2.resources

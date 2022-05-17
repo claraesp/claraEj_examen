@@ -16,5 +16,11 @@ namespace Ej_examen
         {
             label1.Text = "Hola "+textBox1.Text;
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Form2 form = new Form2();
+            form.Show();
+        }
     }
 }
